@@ -81,9 +81,9 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
-    - _myBumpScale: 0.5
+    - _myBumpScale: 1.71
     - _myDiffuseSlider: 1.1
-    - _mySlider: 1.6
+    - _mySlider: 1.01
     m_Colors:
     - _AmbientColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 0.091, g: 0, b: 0.68275833, a: 1}

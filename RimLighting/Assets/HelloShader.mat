@@ -88,9 +88,9 @@ Material:
     - _ZWrite: 1
     - _myBright: 1
     - _myBumpScale: 1
-    - _myRimPow: 2
+    - _myRimPow: 2.89
     - _mySlider: 1
-    - _myStripeSize: 1
+    - _myStripeSize: 2.14
     m_Colors:
     - _AmbientColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 0.091, g: 0, b: 0.68275833, a: 1}
