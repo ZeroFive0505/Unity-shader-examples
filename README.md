@@ -5,10 +5,10 @@ Simple shader examples...
 ![Screenshot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Advanced%20Stencil.gif?raw=true)
 
 # Alpha Chanel
-![Screenshot](Alpha Channel.jpg)
+![Screenshot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Alpha%20Channel.jpg?raw=true)
 
 # Blend two images
-![Screenshot](Blend two images.gif)
+![Screenshot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Blend%20two%20images.gif?raw=true)
 
 # Blend
 ![Screenshot](Blend.gif)
@@ -17,16 +17,16 @@ Simple shader examples...
 ![Screenshot](Blinn.jpg)
 
 # Bump Environment
-![Screenshot](Bunmp Env.gif)
+![Screenshot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Bunmp%20Env.gif?raw=true)
 
 # Standard and toon
 ![Screenshot](Bunnies.gif)
 
 # Cloud Noise
-![Screenshot](Cloud Noise.gif)
+![Screenshot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Cloud%20Noise.gif?raw=true)
 
 # Dot Product
-![Screenshot](Dot product.gif)
+![Screenshot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Dot%20product.jpg?raw=true)
 
 # Glass
 ![Screenshot](Glass.gif)
@@ -35,10 +35,10 @@ Simple shader examples...
 ![Screenshot](Hologram.jpg)
 
 # Material Use
-![Screenshot](Material Use.gif)
+![Screenshot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Material%20Use.gif?raw=true)
 
 # Normal map
-![Screenshot](Normal map.gif)
+![Screenshot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Normal%20map.gif?raw=true)
 
 # Outline
 ![Screenshot](Outline.gif)
@@ -50,25 +50,25 @@ Simple shader examples...
 ![Screenshot](Plasma.gif)
 
 # Ray marching
-![Screenshot](Ray marching.jpg)
+![Screenshot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Ray%20marching.jpg?raw=true)
 
 # Rim light
-![Screenshot](Rim light.gif)
+![Screenshot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Rim%20light.gif?raw=true)
 
 # Stencil
 ![Screenshot](Stencil.gif)
 
 # Vertex Coloring
-![Screenshot](Vertex Coloring.gif)
+![Screenshot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Vertex%20Coloring.gif?raw=true)
 
 # Vertex Extrude
-![Screenshot](Vertex Extrued.gif)
+![Screenshot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Vertex%20Extrude.gif?raw=true)
 
 # Vertex Lighting
-![Screenshot](Vertex Lighting.jpg)
+![Screenshot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Vertex%20Lighting.jpg?raw=true)
 
 # Vertex Shading
-![Screensot](Vertex Shader.jpg)
+![Screensot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Vertex%20Shader.jpg?raw=true)
 
 # Wave
 ![Screenshot](Wave.gif)
