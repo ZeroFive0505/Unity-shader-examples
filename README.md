@@ -2,7 +2,7 @@
 Simple shader examples...
 
 # Advanced Stencil
-![Screenshot](Unity-shader-examples/Advanced Stencil.gif)
+![Screenshot](https://github.com/ZeroFive0505/Unity-shader-examples/blob/main/Advanced%20Stencil.gif?raw=true)
 
 # Alpha Chanel
 ![Screenshot](Alpha Channel.jpg)
